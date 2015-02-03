@@ -45,7 +45,7 @@ def getget (string): #gets the resource from the get request
 def one_client_request(cs, addr):
     #Dealing with one client's request
 ##    while True:
-##        try:
+    try:
         print "alala="+str(type(cs))
         print "alalaaaaa"+str(cs)
         print dir(cs)
@@ -67,5 +67,5 @@ def one_client_request(cs, addr):
                 cs.close()
             csa.close()
         cs.close()
-##        except:
-##            pass
+    except:
+        pass
