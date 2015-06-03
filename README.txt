@@ -13,6 +13,4 @@ Download link: https://www.python.org/download/releases/2.7
 Feel free to contact us,
 
 Big Brother Solutions corp.,
-12 Heaps Of Kangaroos st.
-Wagga Wagga,
-NSW, Australia.
+somewhere in the middle east ;)
